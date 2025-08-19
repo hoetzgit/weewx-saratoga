@@ -1,3 +1,7 @@
+# Backup repository - WeeWX-Saratoga - Gary Roderick
+# https://github.com/gjr80/weewx-saratoga
+**Note:** The original repository no longer exists. Here is the latest version available to me.
+
 # WeeWX-Saratoga #
 
 The *WeeWX-Saratoga extension* is a *WeeWX* extension that supports the [*Saratoga Weather Website Templates*](https://saratoga-weather.org/wxtemplates/index.php) using the *WEEWX-plugin*. The extension also supports the *Saratoga Weather Website templates* [Alternative dashboard](https://saratoga-weather.org/scripts-legacy.php#scott) and can be further used to support any scripts that rely on one or more of the [Weather-Display](https://www.weather-display.com/index.php) *clientraw* family of files for operation.
